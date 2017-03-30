@@ -1,4 +1,4 @@
-# Plasmid Generator  
+# Plasmid Generator  ![pKPC272](https://ibin.co/3HMQZ4JVATnC.png)
 
 ## Introduction  
 Generate basic plasmid maps with user-defined aesthetics. This was written in the R programming language. A step-by-step tutorial is provided and encompasses all attributes of the function.
